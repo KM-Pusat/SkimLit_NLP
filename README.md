@@ -26,10 +26,12 @@ Didalamnya terdapat 4 dataset yang berbeda-beda yaitu :
 ## Machine Learning Model 
 * **NaiveBiase Model** (sklearn) 
 ![Model_0](https://media.discordapp.net/attachments/715823338655580171/1178049168909021205/image.png?ex=6574bac8&is=656245c8&hm=a01024d450e607792715e018c6fa40e0041fe2b4a75546ef4f14f30826261a20&=&format=webp&width=717&height=341)
+<br>
 Accuracy of this model -> **72%**
 
 * **Conv1D Model** (TensorFlow) 
 ![Model_1](https://media.discordapp.net/attachments/715823338655580171/1178049244859469976/image.png?ex=6574badb&is=656245db&hm=eab5bb8307fad01218967e781656493dcbd73087536354a4ddb19c4a5245db5c&=&format=webp&width=717&height=189)
+<br>
 Accuracy of this model -> **78%**
 
 ## Exercise and Extras
